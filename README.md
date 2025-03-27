@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/kunaranjini-gnanavel-7318b6257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaranjini gnanavel" height="30" width="40" /></a>
 <a href="https://kaggle.com/kunaranjini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kunaranjini" height="30" width="40" /></a>
 <a href="https://instagram.com/kunaranjini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaranjini_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kunaranjini4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kunaranjini4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kunaranjini4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kunaranjini4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kunaranjini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunaranjini" height="30" width="40" /></a>
 </p>
 
